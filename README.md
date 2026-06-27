@@ -1,3 +1,13 @@
+---
+title: HerbHeal Compass
+emoji: 🌿
+colorFrom: green
+colorTo: darkgreen
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # HerbHeal Compass
 
 Conservation-aware medicinal plant search. Search by symptom, get ranked
